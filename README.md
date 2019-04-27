@@ -13,6 +13,11 @@ Then install all dependencies:
 npm install
 ```
 
+Before you execute the script, you need to give it your Hubspot API Key, to do that, create a ".env" file and input the following: 
+```
+API_KEY="{YOUR_API_KEY_HERE}"
+```
+
 To execute the script, run: 
 ```
 npm start
